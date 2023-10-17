@@ -1,5 +1,5 @@
 # About the project
-Although many rumours exist about the job market for gymnasium teachers in Denmark, little data exists. This project seeks to change that.
+Although many rumours exist about the job market for gymnasium teachers in Denmark, little data exists. This project seeks to change that by analyzing web scraped data from gymnasiejob.dk and other sources.
 
 An outline of the project:
 - I webscraped 7 years worth of job ads from gymnasiejob.dk. (DONE)
